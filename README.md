@@ -1,4 +1,6 @@
-Invisibility Cloak : Madhumitha Kolkar
+Invisibility Cloak :
+
+Created by Madhumitha Kolkar
 
 This is a Computer Vision based project coded using Python.
 Inspired by Harry Potter's invisibility cloak, this project is a modern day tech recreation of what every 90s kid grew up wanting.
